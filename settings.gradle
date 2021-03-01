@@ -1,0 +1,2 @@
+rootProject.name='Project Timer'
+include ':app'
